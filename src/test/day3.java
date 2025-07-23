@@ -40,6 +40,8 @@ public class day3 {
 	{
 		System.out.println("WebLoginCar");
 		System.out.println(uname);
+		//added for Git
+		System.out.println("Added by American guy 3");
 	}
 	@Test(groups= {"Smoke"})
 	public void mobileLoginCarLoan()

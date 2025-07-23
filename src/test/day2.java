@@ -16,6 +16,10 @@ public class day2 {
 		System.out.println("After Git");
 		System.out.println("After Git1");
 		System.out.println("After Git2	");
+		
+		//added for git
+		System.out.println("Added by American guy1");
+		System.out.println("Added by American guy2");
 	}
 	
 	@BeforeTest
