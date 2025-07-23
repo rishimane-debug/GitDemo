@@ -12,6 +12,9 @@ public class day2 {
 		System.out.println("Loan paid");
 		System.out.println(urlname);
 		System.out.println(uname);
+		System.out.println("After Git");
+		System.out.println("After Git1");
+		System.out.println("After Git2");
 	}
 	
 	@BeforeTest
