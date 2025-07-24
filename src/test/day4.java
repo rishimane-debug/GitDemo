@@ -25,5 +25,9 @@ public class day4 {
 	public void LoginApiCarLoan() {
 		System.out.println("LoginAPIHome");
 	}
+	@Test
+	public void LoginApiCarLoan2() {
+		System.out.println("LoginAPIHome");
+	}
 
 }

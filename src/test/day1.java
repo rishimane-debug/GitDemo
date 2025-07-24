@@ -22,9 +22,19 @@ public class day1 {
 		System.out.println("Hello");
 	}
 	@Test
+	public void demo1()
+	{
+		System.out.println("Hello1");
+	}
+	@Test
 	public void demo2()
 	{
 		System.out.println("world");
+	}
+	@Test
+	public void demo3()
+	{
+		System.out.println("world2");
 	}
 
 }
