@@ -29,5 +29,10 @@ public class day4 {
 	public void LoginApiCarLoan2() {
 		System.out.println("LoginAPIHome");
 	}
+	@Test
+	public void LoginApiCarLoan3() {
+		System.out.println("LoginAPIHome");
+		System.out.println("Added by Ameriacn Arch");
+	}
 
 }
